@@ -1,1 +1,2 @@
-This is our first project file
+This is our first project file.
+and changes were done.
